@@ -1,6 +1,6 @@
 # How to create a Chips sample
 This repository sample explains how to create a chips sample in Xamarin.Forms 
-# Getting Started with Chip sample
+## Getting Started with Chip sample
 Step 1: Add the NuGet to the project and add the namespace as shown in the following code sample:
 
 **[XAML]**
@@ -35,7 +35,7 @@ public GettingStarted()
 }
 ```
 
-# How to create input typed chip example in Xamarin.Forms
+## How to create input typed chip example in Xamarin.Forms
 Arranges the chips in a layout and enables the close button for each chip. Using the close button, a chip can be removed from children and layout as well. It additionally has support to add an optional [`InputView`](https://help.syncfusion.com/xamarin/chips/customization#inputview) at the end of the layout, from which users can obtain the chip text for creating a chip at run time.
 
 N> The [`InputView`](https://help.syncfusion.com/xamarin/chips/customization#inputview) is visible only in Input type.
